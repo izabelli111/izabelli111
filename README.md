@@ -8,4 +8,4 @@ As principais linguagens de programação que eu utilizo são:
 -JavaScript.🖥️
 
 Para entrar em contato comigo
-izabelli_e.s
+@izabelli_e.s
